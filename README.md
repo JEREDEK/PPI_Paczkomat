@@ -5,7 +5,7 @@ f - Set direction to forwards (Default)
 b - Set direction to backwards
 p - Set power level in %. Example: "p50" sets power to 50%, (0% by default, minimum power to see a reaction is 20%, for actual movement, it's dependant on the battery charge and speed setting.)
 g - Returns settings on serial
-s - Start the engine with previously set power
+s - Start the engine, set power before calling this command
 t - Stop the engine
 
 Serial setup:
